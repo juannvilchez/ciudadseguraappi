@@ -1,0 +1,11 @@
+# Solo incluir estos archivos en el build
+!/App.js
+!/app.json
+!/package.json
+!/package-lock.json
+!/eas.json
+!/assets/**
+!/src/**
+
+# Ignorar todo lo demás (cualquier cosa fuera de src/ y assets/)
+*
